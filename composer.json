@@ -1,5 +1,5 @@
 {
-    "name": "edujugon/push-notification",
+    "name": "minedun6/L9-PushNotification",
     "description": "Laravel Package to send push notifications to Android and IOS devices. (GCM,FCM,APN)",
     "keywords": ["Laravel", "push", "notification", "gcm", "apn", "fcm", "high", "priority"],
     "license": "MIT",
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Eduardo Marcos",
-            "email": "edujugon@gmail.com"
+            "name": "Yassine Ben Slimane",
+            "email": "yuginim@gmail.com"
         }
     ],
     "require": {
